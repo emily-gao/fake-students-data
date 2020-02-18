@@ -39,7 +39,7 @@
     {"id":37,"first_name":"Jeannie","last_name":"Thomazin","status":"active","phone_number":"131-607-4021"},
     {"id":38,"first_name":"Rois","last_name":"Anglish","status":"active","phone_number":"275-491-0230"},
     {"id":39,"first_name":"Jed","last_name":"Elmore","status":"active","phone_number":"941-749-7473"},
-    {"id":40,"first_name":"Roana","last_name":"Landis","status":"active","phone_number":"400-474-3358"},
+    {"id":40,"first_name":"Roana","last_name":"Landis","status":"active","phone_number":"400-474-3358"}
   ],
   "profile": {
     "name": "typicode"
